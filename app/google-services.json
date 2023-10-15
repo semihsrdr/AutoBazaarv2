@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957360981687",
+    "project_id": "autobazaar-201f6",
+    "storage_bucket": "autobazaar-201f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957360981687:android:11125cf0e0b541dde32f32",
+        "android_client_info": {
+          "package_name": "com.semihserdarsahin.autobazaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOstO-7DN4b0pBMHURGb10Em4EWoMhxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
